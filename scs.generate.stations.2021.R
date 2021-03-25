@@ -2,14 +2,6 @@ library(gulf.data)
 library(gulf.graphics)
 library(gulf.spatial)
 
-n <- 100  # Number of original random stations from 2013 to substitute.
-
-# Load original stations from the 2013 survey:
-y <- read.scsset(2013)
-y <- y[substr(y$tow.id, 6, 6) == "F", ]
-y <- y[-grep("FR", y$tow.id), ]
-y <- y[-grep("A1", y$tow.id), ]
-
 # Load last year's stations:
 stations <- read.scsset(year = 2020, valid = 1, survey = "regular")
 
@@ -93,6 +85,13 @@ ix <- order(match(substr(tab$tow.id, 3, 5), substr(read.scsset(2020)$tow.id, 3, 
 tab <- tab[ix, ]
 mif <- mif[ix]
 rownames(tab) <- NULL
+
+# Load original stations from the 2013 survey:
+n <- 100  # Number of original random stations from 2013 to substitute.
+y <- read.scsset(2013)
+y <- y[substr(y$tow.id, 6, 6) == "F", ]
+y <- y[-grep("FR", y$tow.id), ]
+y <- y[-grep("A1", y$tow.id), ]
 
 # Identify which stations will be replaced by 2013 originals:
 ix <- seq(sample(1:3, 1), nrow(tab), by = 3)
