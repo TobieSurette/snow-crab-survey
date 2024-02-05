@@ -29,8 +29,8 @@ Naturally this has raised doubts as to the accuracy of the survey results. The f
 - The appearance of alternative biomass estimates for CFA 19 may be perceived as being unfair by other fishery groups.
 
 ## Guidelines
-- Locations of new sampling stations must follow a sound statistical design.
-- Recommendations from the current framework must be generally followed. Deviations from the framework must be clearly explained and justified, and if possible peer-reviewed.
+- Locations of new sampling stations must follow a **sound statistical design**.
+- Recommendations from the current **framework must be generally followed**. **Deviations** from the framework must be clearly **explained and justified**, and if possible peer-reviewed.
 - There is to be no selection of sets of survey stations based on crab catches, i.e. the sampling design and the abundance of crab are to remain independent.
 - Adding new stations will lead to multiple commercial biomass estimates, it it must be clear for all parties how these different estimates are to treated in the stock advice, i.e. the selection should not be based on *which is the highest*.
   
