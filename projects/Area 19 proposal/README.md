@@ -1,7 +1,7 @@
 # Area 19 sampling proposal
 
-Following the 2023 stock assessment in January of 2024, an infomal proposal was put forward to add survey stations to CFA 19.
-
+Following the 2023 stock assessment in January of 2024, an infomal proposal was put forward to add survey stations to CFA 19. The issue mainly stems from the fact that it is the proportions of the commercial biomass within each CFA are generally used to partition the TAC. However, relative uncertainties about the biomass estimates in CFAs 12E, 12F and 19 are much higher than those of CFA 12, owing to the small number of survey stations within these smaller CFAs. Thus adding more stations could yield a clearer picture of the biomass contained within CFA 19, in particular.
+ 
 ## Context
 ### Fishery perception
 Crab Fishing Area (CFA) 19, on the western coast of Cape Breton, has seen significant declines in commercial biomass estimates from the 2022 and 2023 snow crab surveys. Despite this, commercial CPUEs remained at historical highs, generally between two to three times the levels seen in other areas. For example in 2023, seasonal CPUEs in CFA 12 were 72 kg per trap, considered a banner year, while they were an impressive 140 kg per trap CFA 19. Oceanographic conditions within CFA 19 are considered more varied and dynamic than CFA 12, due to warmer waters, complex topography and local upwellings. 
@@ -32,5 +32,5 @@ Naturally this has raised doubts as to the accuracy of the survey results. The f
 - Locations of new sampling stations must follow a **sound statistical design**.
 - Recommendations from the current **framework must be generally followed**. **Deviations** from the framework must be clearly **explained and justified**, and if possible peer-reviewed.
 - There is to be no selection of sets of survey stations based on crab catches, i.e. the sampling design and the abundance of crab are to remain independent.
-- Adding new stations will lead to multiple commercial biomass estimates, it it must be clear for all parties how these different estimates are to treated in the stock advice, i.e. the selection should not be based on *which is the highest*.
+- Adding new stations will lead to multiple commercial biomass estimates, it it must be clear for all parties how these different estimates are to treated in the stock advice, i.e. the selection should not be based on **which is the highest**.
   
